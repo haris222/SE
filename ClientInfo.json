@@ -1,0 +1,30 @@
+{
+   "a":{
+      "Username":"Player 0",
+      "Password":"a",
+      "Meetings":[
+         {
+            "MeetingId":"000000",
+            "Ownership":"Host"
+         },
+         {
+            "MeetingId":"000001",
+            "Ownership":"Guest"
+         }
+      ]
+   },
+   "b":{
+      "Username":"Player 1",
+      "Password":"b",
+      "Meetings":[
+         {
+            "MeetingId":"000000",
+            "Ownership":"Guest"
+         },
+         {
+            "MeetingId":"000001",
+            "Ownership":"Host"
+         }
+      ]
+   }
+}
