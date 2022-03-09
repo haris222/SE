@@ -1,0 +1,14 @@
+{
+   "UserInfo":[
+      {
+         "UserID":"a",
+         "Username":"Player0",
+         "Password":"a"
+      },
+      {
+         "UserID":"b",
+         "Username":"Player1",
+         "Password":"b"
+      }
+   ]
+}
